@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://kaph21.github.io/hellosoykp/sitemap.xml
