@@ -199,3 +199,10 @@
   .company-logos{grid-template-columns:1fr 1fr}
   .newsletter-form{grid-template-columns:1fr}
 }
+
+.trajectory-bridge{padding:62px 0;background:var(--navy);color:#fff}
+.trajectory-bridge-inner{display:grid;grid-template-columns:1fr auto;gap:50px;align-items:center}
+.trajectory-bridge .eyebrow{color:var(--gold)}
+.trajectory-bridge h2{font-size:34px;line-height:1.08;margin:8px 0 10px}
+.trajectory-bridge p{color:#D5DDEC;max-width:760px;line-height:1.6;margin:0}
+@media(max-width:760px){.trajectory-bridge-inner{grid-template-columns:1fr}}
